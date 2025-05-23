@@ -36,4 +36,8 @@ public class PetTest {
         //Assert
         assertEquals(bd,pet.getBirthDate());
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> feature/msp-13
