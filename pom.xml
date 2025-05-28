@@ -108,8 +108,7 @@
                             </execution>
                         </executions>
                     </plugin>
-<<<<<<< HEAD
-                    <plugin>
+
 =======
 <plugin>
 >>>>>>> feature/msp-11
