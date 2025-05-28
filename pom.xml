@@ -108,7 +108,6 @@
                             </execution>
                         </executions>
                     </plugin>
-
 <plugin>
     <groupId>org.jacoco</groupId>
     <artifactId>jacoco-maven-plugin</artifactId>
@@ -129,10 +128,6 @@
         </execution>
     </executions>
 </plugin>
-=======
-=======
->>>>>>> feature/msp-11
->>>>>>> feature/msp-13
                     <!-- Spring Boot Actuator displays build-related information if a META-INF/build-info.properties file is present -->
                     <plugin>
                         <groupId>pl.project13.maven</groupId>
@@ -209,4 +204,3 @@
     </repositories>
 
 </project>
-
