@@ -110,8 +110,6 @@
                     </plugin>
 
 =======
->>>>>>> feature/msp-11
-<<<<<<< HEAD
 <plugin>
     <groupId>org.jacoco</groupId>
     <artifactId>jacoco-maven-plugin</artifactId>
